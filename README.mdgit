@@ -1,0 +1,1 @@
+# procurement_management initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin git@github.com:kaluramkanesh/procurement_management.gitgit push -u origin main
